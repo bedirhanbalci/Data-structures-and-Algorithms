@@ -5,4 +5,4 @@ Insertion Sort Project
 Merge Sort Project
 Binary Search Tree Project
 
-[https://app.patika.dev/bedirhanbalci] Patika.dev Profile
+Patika.dev Profile[https://app.patika.dev/bedirhanbalci] 
