@@ -7,4 +7,4 @@ Merge Sort Project
 
 Binary Search Tree Project
 
-#<a name="https://app.patika.dev/bedirhanbalci">Patika.dev Profile</a>
+"https://app.patika.dev/bedirhanbalci"[Patika.dev Profile]
