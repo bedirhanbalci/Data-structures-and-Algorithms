@@ -5,4 +5,6 @@ Insertion Sort Project
 Merge Sort Project
 Binary Search Tree Project
 
-Patika.dev Profile[https://app.patika.dev/bedirhanbalci] 
+Patika.dev Profile[https://app.patika.dev/bedirhanbalci]
+
+<a name="https://app.patika.dev/bedirhanbalci">Patika.dev Profile</a>
